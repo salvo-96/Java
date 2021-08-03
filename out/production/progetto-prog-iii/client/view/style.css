@@ -1,0 +1,41 @@
+
+#toolbar {
+    -fx-background-color: darkslateblue;
+}
+
+#btn_invia {
+    -fx-background-color: midnightblue;
+    -fx-text-fill: white;
+}
+
+#anchor_pane_scrivi {
+    -fx-background-color: whitesmoke;
+}
+
+#navbar_leggi {
+    -fx-background-color: midnightblue;
+}
+
+.button {
+    -fx-background-color: transparent;
+}
+
+#text_field_leggi {
+    -fx-background-color: transparent;
+    -fx-text-fill: black;
+}
+
+
+#text_field_scrivi {
+    -fx-background-color: transparent;
+    -fx-text-fill: black;
+}
+
+.text-area .content {
+    -fx-background-color: lightgray;
+    -fx-border-color: darkslateblue;
+}
+
+.separator {
+    -fx-background-color: whitesmoke;
+}
